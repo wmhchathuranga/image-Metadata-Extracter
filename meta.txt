@@ -1,0 +1,20 @@
+ExifTool Version Number         : 12.57
+File Name                       : phpp9FcXc
+Directory                       : /tmp
+File Size                       : 237 kB
+File Modification Date/Time     : 2023:04:19 19:43:52+05:30
+File Access Date/Time           : 2023:04:19 19:43:52+05:30
+File Inode Change Date/Time     : 2023:04:19 19:43:52+05:30
+File Permissions                : -rw-------
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 900
+Image Height                    : 600
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 900x600
+Megapixels                      : 0.540
