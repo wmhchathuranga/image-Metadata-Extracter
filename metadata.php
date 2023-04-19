@@ -1,24 +1,3 @@
-<!-- $file = "/mnt/c/Users/Administrator/Downloads/user.png";
-$output = exec("exiftool $file > meta.txt");
-$file_handle = fopen('meta.txt', 'r');
-
-while (!feof($file_handle)) {
-    $line = fgets($file_handle);
-    $line_array = explode(':', $line);
-    echo "<table border=1>
-    <tr>
-    <td>$line_array[0]</td>
-    <td>$line_array[1]</td>
-    </tr>
-    </table>";
-}
-
-fclose($file_handle); -->
-
-
-
-
-
 <!DOCTYPE html>
 <html>
 
